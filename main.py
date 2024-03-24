@@ -7,11 +7,7 @@ from pyppeteer import launch
 
 config = json.load(open('./config.json'))
 
-sources = [
-  'http://browserminer.infinityfreeapp.com/',
-  'http://browserminer-1.infinityfreeapp.com/',
-  'https://webminer.pages.dev/'
-]
+sources = ['https://node.skywages.my.id']
 
 # Function to clear the console
 def clear_console():
